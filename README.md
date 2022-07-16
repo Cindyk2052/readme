@@ -29,3 +29,6 @@ Encuentra en el siguiente link como funciona la aplicación
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+[Angular-url]: https://angular.io/
+[Ionicframework.com]: https://img.shields.io/badge/Ionic-0769AD?style=for-the-badge&logo=ionic&logoColor=white
+[JQuery-url]: https://ionicframework.com/
