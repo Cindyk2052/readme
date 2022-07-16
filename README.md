@@ -1,15 +1,8 @@
 ## Acerca del proyecto (Manual de usuario)
 
 ### Herramientas
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
+* [![Ionic][Ionicframework.com]][Ionic-url]
 
 ## Getting Started
 
@@ -32,3 +25,7 @@
 Encuentra en el siguiente link como funciona la aplicación
 
 * [LINK](https://choosealicense.com)
+
+<!-- MARKDOWN LINKS & IMAGES -->
+
+[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
