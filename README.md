@@ -6,7 +6,7 @@
 
 ## Getting Started
 
-### Instalación
+### Instalación (Manual de instalación)
 
 1. Clona el repositorio
    ```sh
