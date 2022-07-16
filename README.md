@@ -20,7 +20,7 @@
  	```sh
   	npm install 
   	```
-### Anexos
+## Anexos
 
 Encuentra en el siguiente link como funciona la aplicación
 
