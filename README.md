@@ -2,7 +2,7 @@
 
 ### Herramientas
 * [![Angular][Angular.io]][Angular-url]
-* [![Ionic][Ionicframework.com]][Ionic-url]
+
 
 ## Getting Started
 
