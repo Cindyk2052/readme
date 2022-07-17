@@ -18,7 +18,7 @@
   	```
  3. Levanta el servidor
  	```sh
-  	npm install 
+  	ng serve 
   	```
 ## Anexos
 
