@@ -78,6 +78,10 @@ Encuentra en el siguiente link como funciona la aplicación
 
 * [LINK](https://choosealicense.com)
 
+Además contamos con una página web
+
+* [LINK](https://choosealicense.com)
+
 <!-- MARKDOWN LINKS & IMAGES -->
 
 [Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
