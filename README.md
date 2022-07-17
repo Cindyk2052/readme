@@ -37,6 +37,9 @@ Los encargados registrados en la aplicación tienen la propiedad de crear lugare
     <img src="captures/crearSitioEncar.png" alt="Crear sitio" width="247" height="508">   <img src="captures/agregarSitioEncar.png" alt="Agregar sitio" width="242" height="508">    <img src="captures/listoSitioEncar.jpeg" alt="Sitio Listo" width="247" height="508">
 </div>
 
+Al registrar un sitio y colocar la ubicación, estas se obtienen de la ubicación actual
+<img src="captures/ubicacionEncar.png" alt="Ubicacion" width="247" height="508">
+
 Al igual que el turista, el usuario encargado puede modificar su nombre de perfil 
 <div align="center">
     <img src="captures/modPerfilEncar.png" alt="Mod Perfil" width="236" height="500">   <img src="captures/perfilEncar.png" alt="Perfil" width="238" height="497">
