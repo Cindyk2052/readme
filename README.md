@@ -28,7 +28,7 @@ Al ingresar en los detalles se pude ver la imagen del lugar, el nombre del local
 
 Es posible modificar el perfil. A quí se presenta el rol, el nombre de usuario y el correo con el que se registró. Es el nombre de usuario el cual se puede cambiar
 <div align="center">
-    <img src="captures/modPerfilTurista.png" alt="Mod Perfil" width="238" height="487">    <img src="captures/perfilTurista.png" alt="Perfil" width="246" height="488">
+    <img src="captures/modPerfilTurista.png" alt="Mod Perfil" width="238" height="488">    <img src="captures/perfilTurista.png" alt="Perfil" width="246" height="488">
 </div>
 
 ### Usuario Encargado
