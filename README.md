@@ -13,7 +13,11 @@ El registro de sesión cuenta con dos roles: Turista y Encargado
 <div align="center">
     <img src="captures/registroSesion.png" alt="Registro" width="230" height="425">
 </div>
-   
+
+### Usuario Turista
+El rol Turista al iniciar sesión puede ver los lugares turísticos que se han registrado
+
+
 ### Herramientas
 * [![Angular][Angular.io]][Angular-url]
 * [![Ionic][Ionicframework.com]][Ionic-url]
