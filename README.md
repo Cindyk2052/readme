@@ -25,10 +25,31 @@ Al ingresar en los detalles se pude ver la imagen del lugar, el nombre del local
     <img src="captures/verDetallesTurista.png" alt="Ver Detalles" width="232" height="492">
 </div>
 
-Es posible modificar el perfil
+Es posible modificar el perfil. A quí se presenta el rol, el nombre de usuario y el correo con el que se registró. Es el nombre de usuario el cual se puede cambiar
 <div align="center">
     <img src="captures/modPerfilTurista.png" alt="Mod Perfil" width="238" height="487">    <img src="captures/perfilTurista.png" alt="Perfil" width="246" height="488">
 </div>
+
+### Usuario Encargado
+Los encargados registrados en la aplicación tienen la propiedad de crear lugares turísticos con las mismas características de los detalles que ve el turista y la ubicación actual
+<div align="center">
+    <img src="captures/crearSitioEncar.png" alt="Crear sitio" width="247" height="508">   <img src="captures/agregarSitioEncar.png" alt="Agregar sitio" width="242" height="512">
+</div>
+
+Al igual que el turista, el usuario encargado puede modificar su nombre de perfil 
+<div align="center">
+    <img src="captures/modPerfilEncar.png" alt="Mod Perfil" width="236" height="500">   <img src="captures/PerfilEncar.png" alt="Perfil" width="238" height="497">
+</div>
+
+### Usuario Administrador
+
+
+
+
+
+
+
+
 
 ### Herramientas
 * [![Angular][Angular.io]][Angular-url]
