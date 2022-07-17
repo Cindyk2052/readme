@@ -15,7 +15,31 @@ El registro de sesión cuenta con dos roles: Turista y Encargado
 </div>
 
 ### Usuario Turista
-El rol Turista al iniciar sesión puede ver los lugares turísticos que se han registrado
+El rol Turista al iniciar sesión puede ver los lugares turísticos que se han registrado y sus detalles
+<div align="center">
+    <img src="captures/detallesTurista.png" alt="Detaller" width="235" height="492">
+</div>
+
+Al ingresar en los detalles se pude ver la imagen del lugar, el nombre del local, nombre del dueño del local, la ciudad del sitio, detalles del local y la ubicación 
+<div align="center">
+    <img src="captures/verDetallesTurista.png" alt="Ver Detalles" width="232" height="492">
+</div>
+
+Es posible modificar el perfil
+<div align="center">
+    <div class="row">
+        <div class="col">
+            <img src="captures/modPerfilTurista.png" alt="Mod Perfil" width="238" height="487">
+        </div>
+        <div class="col">
+            <img src="captures/PerfilTurista.png" alt="Perfil" width="246" height="488">
+        </div>
+        </div>
+    </div>
+    
+    
+    
+</div>
 
 
 ### Herramientas
