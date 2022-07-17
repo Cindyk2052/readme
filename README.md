@@ -32,7 +32,7 @@ Es posible modificar el perfil
             <img src="captures/modPerfilTurista.png" alt="Mod Perfil" width="238" height="487">
         </div>
         <div class="col">
-            <img src="captures/PerfilTurista.png" alt="Perfil" width="246" height="488">
+            <img src="captures/perfilTurista.png" alt="Perfil" width="246" height="488">
         </div>
         </div>
     </div>
