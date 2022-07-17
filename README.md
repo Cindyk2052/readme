@@ -1,6 +1,6 @@
 ## Acerca del proyecto (Manual de usuario)
 <div align="center">
-    <img src="captures/pantallaInicio.png" alt="Inicio" width="230" height="425">
+    <img src="captures/pantallaInicio.png" alt="Inicio" width="225" height="425">
 </div>
 
 
