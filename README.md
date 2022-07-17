@@ -1,5 +1,5 @@
 ## Acerca del proyecto (Manual de usuario)
-[![Product Name Screen Shot][product-screenshot]]
+![Product Name Screen Shot][product-screenshot]
 ### Herramientas
 * [![Angular][Angular.io]][Angular-url]
 * [![Ionic][Ionicframework.com]][Ionic-url]
