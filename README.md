@@ -18,7 +18,7 @@
   	```
  3. Levanta el servidor
  	```sh
-  	ng serve 
+  	ionic serve --lab 
   	```
 ## Anexos
 
