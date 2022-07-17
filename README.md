@@ -34,7 +34,7 @@ Es posible modificar el perfil. A quí se presenta el rol, el nombre de usuario 
 ### Usuario Encargado
 Los encargados registrados en la aplicación tienen la propiedad de crear lugares turísticos con las mismas características de los detalles que ve el turista y la ubicación actual
 <div align="center">
-    <img src="captures/crearSitioEncar.png" alt="Crear sitio" width="247" height="508">   <img src="captures/agregarSitioEncar.png" alt="Agregar sitio" width="242" height="512">    <img src="captures/listoSitioEncar.png" alt="Sitio Listo" width="247" height="508">
+    <img src="captures/crearSitioEncar.png" alt="Crear sitio" width="247" height="508">   <img src="captures/agregarSitioEncar.png" alt="Agregar sitio" width="242" height="512">    <img src="captures/listoSitioEncar.jpeg" alt="Sitio Listo" width="247" height="508">
 </div>
 
 Al igual que el turista, el usuario encargado puede modificar su nombre de perfil 
