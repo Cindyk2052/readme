@@ -1,3 +1,4 @@
+# Patito Travel
 ## Acerca del proyecto (Manual de usuario)
 <div align="center">
     <img src="captures/pantallaInicio.png" alt="Inicio" width="222" height="463">
