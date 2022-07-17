@@ -1,5 +1,8 @@
 ## Acerca del proyecto (Manual de usuario)
-![Product Name Screen Shot][product-screenshot]
+<div align="center">
+    <img src="captures/pantallaInicio.png" alt="Inicio" width="100" height="150">
+</div>
+   
 ### Herramientas
 * [![Angular][Angular.io]][Angular-url]
 * [![Ionic][Ionicframework.com]][Ionic-url]
