@@ -38,18 +38,19 @@ Los encargados registrados en la aplicación tienen la propiedad de crear lugare
 
 Al igual que el turista, el usuario encargado puede modificar su nombre de perfil 
 <div align="center">
-    <img src="captures/modPerfilEncar.png" alt="Mod Perfil" width="236" height="500">   <img src="captures/PerfilEncar.png" alt="Perfil" width="238" height="497">
+    <img src="captures/modPerfilEncar.png" alt="Mod Perfil" width="236" height="500">   <img src="captures/perfilEncar.png" alt="Perfil" width="238" height="497">
 </div>
 
 ### Usuario Administrador
+El administrador tiene la autoridad de eliminar cualquier lugar turístico registrado por los encargados
+<div align="center">
+    <img src="captures/eliminarSitioAdmin.png" alt="Eliminar sitio" width="240" height="508">
+</div>
 
-
-
-
-
-
-
-
+Este usuario también tiene la cualidad de modificar su usuario
+<div align="center">
+    <img src="captures/modPerfilEncar.png" alt="Mod Perfil" width="238" height="506">   <img src="captures/perfilAdmin.png" alt="Perfil" width="237" height="507">
+</div>
 
 ### Herramientas
 * [![Angular][Angular.io]][Angular-url]
