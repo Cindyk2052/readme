@@ -1,6 +1,6 @@
 ## Acerca del proyecto (Manual de usuario)
 <div align="center">
-    <img src="captures/pantallaInicio.png" alt="Inicio" width="225" height="425">
+    <img src="captures/pantallaInicio.png" alt="Inicio" width="222" height="463">
 </div>
 
 
@@ -11,7 +11,7 @@ La aplicación permite el acceso de tres roles, usuario turista, usuario propiet
 ### Registro 
 El registro de sesión cuenta con dos roles: Turista y Encargado 
 <div align="center">
-    <img src="captures/registroSesion.png" alt="Registro" width="230" height="425">
+    <img src="captures/registroSesion.png" alt="Registro" width="232" height="492">
 </div>
 
 ### Usuario Turista
