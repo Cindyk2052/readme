@@ -2,6 +2,15 @@
 <div align="center">
     <img src="captures/pantallaInicio.png" alt="Inicio" width="230" height="425">
 </div>
+
+Esta aplicación se ha creado con el objetivo de fomentar el turismo en Quito. Se ha desarrollado en el Framework Ionic.
+La aplicación permite el acceso de tres roles, usuario turista, usuario propietario o encargado del sitio turístico y administrador general. El usuario encargado puede ingresar detalles del sitio turístico, el usuario turista puede ver todos los registros de los sitios ingresados y el administrador es capaz de eliminar los lugares que vea conveniente borrar. 
+
+### Registro 
+El registro de sesión consta con dos roles: Turista y Encargado 
+<div align="center">
+    <img src="captures/registroSesion.png" alt="Registro" width="230" height="425">
+</div>
    
 ### Herramientas
 * [![Angular][Angular.io]][Angular-url]
