@@ -1,5 +1,5 @@
 ## Acerca del proyecto (Manual de usuario)
-
+[![Product Name Screen Shot][product-screenshot]]
 ### Herramientas
 * [![Angular][Angular.io]][Angular-url]
 * [![Ionic][Ionicframework.com]][Ionic-url]
@@ -32,3 +32,4 @@ Encuentra en el siguiente link como funciona la aplicación
 [Angular-url]: https://angular.io/
 [Ionicframework.com]: https://img.shields.io/badge/Ionic-0769AD?style=for-the-badge&logo=ionic&logoColor=white
 [Ionic-url]: https://ionicframework.com/
+[product-screenshot]: captures/pantallaInicio.png
