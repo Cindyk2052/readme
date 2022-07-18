@@ -4,7 +4,6 @@
     <img src="captures/pantallaInicio.png" alt="Inicio" width="222" height="463">
 </div>
 
-
 Esta aplicación se ha creado con el objetivo de fomentar el turismo en Quito. Se ha desarrollado en el Framework Ionic.
 
 La aplicación permite el acceso de tres roles, usuario turista, usuario propietario o encargado del sitio turístico y administrador general. El usuario encargado puede ingresar detalles del sitio turístico, el usuario turista puede ver todos los registros de los sitios ingresados y el administrador es capaz de eliminar los lugares que vea conveniente borrar. 
@@ -91,6 +90,7 @@ Ionic permite la visualización en la Web
 ### Herramientas
 * [![Angular][Angular.io]][Angular-url]
 * [![Ionic][Ionicframework.com]][Ionic-url]
+* [![Firebase][Firebase.google.com]][Firebase-url]
 
 ## Getting Started
 
@@ -126,4 +126,6 @@ Además contamos con una página web
 [Angular-url]: https://angular.io/
 [Ionicframework.com]: https://img.shields.io/badge/Ionic-0769AD?style=for-the-badge&logo=ionic&logoColor=white
 [Ionic-url]: https://ionicframework.com/
+[Firebase.google.com]: https://img.shields.io/badge/Firebase-DD0031?style=for-the-badge&logo=firebase&logoColor=black
+[Firebase-url]: https://firebase.google.com/
 [product-screenshot]: captures/pantallaInicio.png
