@@ -62,28 +62,28 @@ Este usuario también tiene la cualidad de modificar su usuario
 ### Sitio Web
 Ionic permite la visualización en la Web
 <div align="center">
-    <img src="captures/inicioWeb.png" alt="Inicio" width="655" height="400">
+    <img src="captures/inicioWeb.png" alt="Inicio" width="670" height="400">
 </div>
 <div align="center">
-    <img src="captures/registroWeb.png" alt="Registro" width="655" height="400">
+    <img src="captures/registroWeb.png" alt="Registro" width="670" height="400">
 </div>
 <div align="center">
-    <img src="captures/verDetallesWeb.png" alt="Ver detalles" width="655" height="400">
+    <img src="captures/verDetallesWeb.png" alt="Ver detalles" width="670" height="400">
 </div>
 <div align="center">
-    <img src="captures/masDetallesWeb.jpeg" alt="Mas detalles" width="655" height="400">
+    <img src="captures/masDetallesWeb.jpeg" alt="Mas detalles" width="670" height="400">
 </div>
 <div align="center">
-    <img src="captures/usuarioWeb.png" alt="Usuario" width="655" height="400">
+    <img src="captures/usuarioWeb.png" alt="Usuario" width="670" height="400">
 </div>
 <div align="center">
-    <img src="captures/crearSitioWeb.png" alt="Crear sitio" width="655" height="400">
+    <img src="captures/crearSitioWeb.png" alt="Crear sitio" width="670" height="400">
 </div>
 <div align="center">
-    <img src="captures/agregarSitioWeb.png" alt="Agregar sitio" width="655" height="400">
+    <img src="captures/agregarSitioWeb.png" alt="Agregar sitio" width="670" height="400">
 </div>
 <div align="center">
-    <img src="captures/eliminarSitioWeb.png" alt="Eliminar sitio" width="655" height="400">
+    <img src="captures/eliminarSitioWeb.png" alt="Eliminar sitio" width="670" height="400">
 </div>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -126,6 +126,6 @@ Además contamos con una página web
 [Angular-url]: https://angular.io/
 [Ionicframework.com]: https://img.shields.io/badge/Ionic-0769AD?style=for-the-badge&logo=ionic&logoColor=white
 [Ionic-url]: https://ionicframework.com/
-[Firebase.google.com]: https://img.shields.io/badge/Firebase-DD0031?style=for-the-badge&logo=firebase&logoColor=black
+[Firebase.google.com]: https://img.shields.io/badge/Firebase-FFC300?style=for-the-badge&logo=firebase&logoColor=black
 [Firebase-url]: https://firebase.google.com/
 [product-screenshot]: captures/pantallaInicio.png
