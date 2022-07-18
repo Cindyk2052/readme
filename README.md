@@ -58,6 +58,33 @@ Este usuario también tiene la cualidad de modificar su usuario
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+### Sitio Web
+Ionic permite la visualización en la Web
+<div align="center">
+    <img src="captures/inicioWeb.png" alt="Inicio" width="500" height="100">
+</div>
+<div align="center">
+    <img src="captures/detallesWeb.png" alt="Detalles" width="500" height="100">
+</div>
+<div align="center">
+    <img src="captures/verDetallesWeb.png" alt="Ver detalles" width="500" height="100">
+</div>
+<div align="center">
+    <img src="captures/masDetallesWeb.jpeg" alt="Mas detalles" width="500" height="100">
+</div>
+<div align="center">
+    <img src="captures/usuarioWeb.png" alt="Usuario" width="500" height="100">
+</div>
+<div align="center">
+    <img src="captures/crearSitioWeb.png" alt="Crear sitio" width="500" height="100">
+</div>
+<div align="center">
+    <img src="captures/agregarSitioWeb.png" alt="Agregar sitio" width="500" height="100">
+</div>
+<div align="center">
+    <img src="captures/eliminarSitioWeb.png" alt="Eliminar sitio" width="500" height="100">
+</div>
+
 ### Herramientas
 * [![Angular][Angular.io]][Angular-url]
 * [![Ionic][Ionicframework.com]][Ionic-url]
@@ -68,7 +95,7 @@ Este usuario también tiene la cualidad de modificar su usuario
 
 1. Clona el repositorio
    ```sh
-   git clone https://github.com/DanielGuachamin/proyecto-movil-1erbi.git
+   git clone https://github.com/DanielGuachamin/proyecto-patito-travel.git
    ```
 2. Instala las dependencias del proyecto
   	```sh
