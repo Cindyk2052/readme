@@ -112,13 +112,17 @@ Ionic permite la visualización en la Web
 
 Encuentra en el siguiente link como funciona la aplicación
 
-* [LINK](https://choosealicense.com)
+* [Youtube](https://choosealicense.com)
 
 Además contamos con una página web
 
-* [LINK](https://choosealicense.com)
+* [Sitio Web](https://choosealicense.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+El respaldo de la base de datos en una hoja de cálculo de Google
+
+* [Google Sheet](https://choosealicense.com)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
