@@ -118,11 +118,12 @@ Además contamos con una página web
 
 * [Sitio Web](https://choosealicense.com)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 El respaldo de la base de datos en una hoja de cálculo de Google
 
 * [Google Sheet](https://choosealicense.com)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
