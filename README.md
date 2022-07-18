@@ -47,9 +47,9 @@ Al igual que el turista, el usuario encargado puede modificar su nombre de perfi
 </div>
 
 ### Usuario Administrador
-El administrador tiene la autoridad de eliminar cualquier lugar turístico registrado por los encargados
+El administrador tiene la autoridad de eliminar cualquier lugar turístico registrado por los encargados. Se mostrará un mensaje de confirmación al momento de elimianr un sitio
 <div align="center">
-    <img src="captures/eliminarSitioAdmin.png" alt="Eliminar sitio" width="240" height="508">
+    <img src="captures/eliminarSitioAdmin.png" alt="Eliminar sitio" width="240" height="508">  <img src="captures/mensajeEliminarEncar.png" alt="Mensaje eliminar sitio" width="240" height="508">   
 </div>
 
 Este usuario también tiene la cualidad de modificar su usuario
