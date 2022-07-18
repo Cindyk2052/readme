@@ -63,28 +63,28 @@ Este usuario también tiene la cualidad de modificar su usuario
 ### Sitio Web
 Ionic permite la visualización en la Web
 <div align="center">
-    <img src="captures/inicioWeb.png" alt="Inicio" width="650" height="400">
+    <img src="captures/inicioWeb.png" alt="Inicio" width="655" height="400">
 </div>
 <div align="center">
-    <img src="captures/registroWeb.png" alt="Registro" width="650" height="400">
+    <img src="captures/registroWeb.png" alt="Registro" width="655" height="400">
 </div>
 <div align="center">
-    <img src="captures/verDetallesWeb.png" alt="Ver detalles" width="650" height="400">
+    <img src="captures/verDetallesWeb.png" alt="Ver detalles" width="655" height="400">
 </div>
 <div align="center">
-    <img src="captures/masDetallesWeb.jpeg" alt="Mas detalles" width="650" height="400">
+    <img src="captures/masDetallesWeb.jpeg" alt="Mas detalles" width="655" height="400">
 </div>
 <div align="center">
-    <img src="captures/usuarioWeb.png" alt="Usuario" width="650" height="400">
+    <img src="captures/usuarioWeb.png" alt="Usuario" width="655" height="400">
 </div>
 <div align="center">
-    <img src="captures/crearSitioWeb.png" alt="Crear sitio" width="650" height="400">
+    <img src="captures/crearSitioWeb.png" alt="Crear sitio" width="655" height="400">
 </div>
 <div align="center">
-    <img src="captures/agregarSitioWeb.png" alt="Agregar sitio" width="650" height="400">
+    <img src="captures/agregarSitioWeb.png" alt="Agregar sitio" width="655" height="400">
 </div>
 <div align="center">
-    <img src="captures/eliminarSitioWeb.png" alt="Eliminar sitio" width="650" height="400">
+    <img src="captures/eliminarSitioWeb.png" alt="Eliminar sitio" width="655" height="400">
 </div>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
