@@ -38,7 +38,9 @@ Los encargados registrados en la aplicación tienen la propiedad de crear lugare
 </div>
 
 Al registrar un sitio y colocar la ubicación, estas se obtienen de la ubicación actual
-<img src="captures/ubicacionEncar.png" alt="Ubicacion" width="247" height="508">
+<div align="center">
+    <img src="captures/ubicacionEncar.png" alt="Ubicacion" width="247" height="508">
+</div>
 
 Al igual que el turista, el usuario encargado puede modificar su nombre de perfil 
 <div align="center">
