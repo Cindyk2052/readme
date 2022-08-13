@@ -1,5 +1,5 @@
 # Patito Travel
-# Verificando un commit nuevo 1
+# Verificando un commit nuevo 2
 
 ## Acerca del proyecto (Manual de usuario)
 <div align="center">
